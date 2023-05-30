@@ -8,7 +8,7 @@ You can contact me through the followings:
 
 [Discord](https://discord.com/users/405754262082158595)
 
-[Reddit](https://reddit.com/u/hg13bs)
+[Reddit (Recommended)](https://reddit.com/u/hg13bs)
 
 [Email](mailto:hg13master@gmail.com)
 <!--
