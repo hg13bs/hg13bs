@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a goofy person who does well goofy things, Currently translating palera1n's jailbreak loader, If you are looking for an arabic translator, You can contact me below.
+I'm a goofy person who does well goofy things.
 
 ### Contact
 
