@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a goofy person who does well goofy things.
+I'm a goofy person who does well goofy things and develop simple apps.
 
 ### Contact
 
@@ -8,7 +8,7 @@ You can contact me through the followings:
 
 [Discord](https://discord.com/users/405754262082158595)
 
-[Reddit (Recommended)](https://reddit.com/u/hg13bs)
+[Reddit](https://reddit.com/u/hg13bs)
 
 [Email](mailto:hg13master@gmail.com)
 <!--
