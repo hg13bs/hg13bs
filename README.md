@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there!
+
+I'm a person who does things and develop simple apps, I also translate stuff to Arabic
+
+### Contact
+
+You can contact me through the followings:
+
+[Discord](https://discord.com/users/405754262082158595)
 
 <!--
 **hg13bs/hg13bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
