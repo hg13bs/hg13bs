@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a person who does things and develop simple apps, I also translate stuff to Arabic
+I'm a funny guy who does things and develop simple apps (basic ones, not that kind of extreme level), I also translate stuff to Arabic.
 
 ### Contact
 
